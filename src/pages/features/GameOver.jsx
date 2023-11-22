@@ -1,8 +1,6 @@
 import classes from "./GameOver.module.css";
 import {useSelector} from "react-redux";
-import {useNavigate} from "react-router-dom";
-import {useDispatch} from "react-redux";
-import {clearScore} from "../gameSlice";
+
 import ButtonReturn from "../../ui/ButtonReturn";
 
 function GameOver() {
