@@ -22,13 +22,13 @@
 .paper {
   border: 3rem #4865f4 solid;
   @media only screen and (max-width: 900px) {
-    border: 2rem #ec9e0e solid;
+    border: 2rem #4865f4 solid;
   }
 }
 .rock {
   border: 3rem #dc2e4e solid;
   @media only screen and (max-width: 900px) {
-    border: 2rem #ec9e0e solid;
+    border: 2rem #dc2e4e solid;
   }
 }
 
