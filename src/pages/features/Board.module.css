@@ -1,0 +1,12 @@
+.board {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.title {
+  color: whitesmoke;
+  text-transform: uppercase;
+  letter-spacing: 0.4rem;
+  font-size: 5rem;
+  text-align: center;
+}

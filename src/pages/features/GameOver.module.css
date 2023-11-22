@@ -1,0 +1,26 @@
+.gameOver {
+  align-self: center;
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5rem;
+  flex-direction: column;
+}
+
+.result {
+  color: #40b9ce;
+  font-size: 4rem;
+  text-transform: uppercase;
+}
+
+.startAgain {
+  padding: 2rem 4rem;
+  font-family: inherit;
+  font-size: 2rem;
+  border-radius: 1rem;
+  cursor: pointer;
+  text-transform: capitalize;
+  color: white;
+  background-color: #40b9ce;
+}

@@ -1,0 +1,65 @@
+.header {
+  width: 60rem;
+  display: flex;
+  outline: #606e85;
+  border: 3px solid #606e85;
+  text-transform: uppercase;
+  border-radius: 1rem;
+  padding: 2rem;
+  justify-content: space-between;
+  justify-self: center;
+
+  @media only screen and (max-width: 900px) {
+    width: 40rem;
+    padding: 1rem 3rem;
+    justify-content: space-between;
+  }
+  @media only screen and (max-width: 600px) {
+    width: 30rem;
+    padding: 1rem 2rem;
+  }
+}
+
+.title {
+  color: white;
+  font-size: 3rem;
+  font-weight: bolder;
+  line-height: 2.5rem;
+
+  @media only screen and (max-width: 900px) {
+    font-size: 2rem;
+  }
+}
+
+.score {
+  text-align: center;
+  background-color: white;
+  padding: 1rem 3rem;
+  border-radius: 1rem;
+  @media only screen and (max-width: 900px) {
+    font-size: 2rem;
+    padding: 1rem 2rem;
+  }
+}
+
+.scoreTxt {
+  color: #2a46c0;
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+  text-align: center;
+  @media only screen and (max-width: 900px) {
+    font-size: 1rem;
+  }
+}
+
+.num {
+  font-size: 4rem;
+  color: #3b4363;
+  @media only screen and (max-width: 900px) {
+    font-size: 3rem;
+  }
+}
+
+.red {
+  background-color: red;
+}

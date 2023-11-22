@@ -1,0 +1,23 @@
+:root {
+  --color-background: #fff;
+  --color-secondary: #e4e9f2;
+
+  --color-font-1: #1d2026;
+  --color-font-2: #69707d;
+  --color-orange: #ff7e1b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+}

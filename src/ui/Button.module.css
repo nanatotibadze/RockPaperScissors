@@ -1,0 +1,15 @@
+.btn {
+  width: 18rem;
+  height: 18rem;
+  border-radius: 50%;
+  z-index: 55;
+
+  background-color: white;
+  /* outline: 2rem red solid; */
+  /* border: 2rem red solid; */
+  cursor: pointer;
+  @media only screen and (max-width: 900px) {
+    width: 12rem;
+    height: 12rem;
+  }
+}

@@ -1,0 +1,110 @@
+.container {
+  align-self: center;
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+  @media only screen and (max-width: 900px) {
+    gap: 5rem;
+  }
+  @media only screen and (max-width: 600px) {
+    gap: 2rem;
+  }
+}
+
+.scissors {
+  border: 3rem #ec9e0e solid;
+  @media only screen and (max-width: 900px) {
+    border: 2rem #ec9e0e solid;
+  }
+}
+.paper {
+  border: 3rem #4865f4 solid;
+  @media only screen and (max-width: 900px) {
+    border: 2rem #ec9e0e solid;
+  }
+}
+.rock {
+  border: 3rem #dc2e4e solid;
+  @media only screen and (max-width: 900px) {
+    border: 2rem #ec9e0e solid;
+  }
+}
+
+.lizard {
+  border: 3rem #834fe3 solid;
+  @media only screen and (max-width: 900px) {
+    border: 2rem #834fe3 solid;
+  }
+}
+.spock {
+  border: 3rem #40b9ce solid;
+  @media only screen and (max-width: 900px) {
+    border: 2rem #40b9ce solid;
+  }
+}
+
+.p {
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-shadow: 1rem;
+  letter-spacing: 0.3rem;
+  text-align: center;
+  @media only screen and (max-width: 600px) {
+    font-size: 1rem;
+  }
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.empty {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 50%;
+  background-color: #141539;
+
+  @media only screen and (max-width: 900px) {
+    width: 18rem;
+    height: 18rem;
+  }
+}
+
+.big {
+  width: 22rem;
+  height: 22rem;
+
+  @media only screen and (max-width: 900px) {
+    width: 18rem;
+    height: 18rem;
+  }
+  @media only screen and (max-width: 600px) {
+    width: 16rem;
+    height: 16rem;
+  }
+}
+
+.image {
+  width: 9rem;
+  @media only screen and (max-width: 900px) {
+    width: 8rem;
+    height: 8rem;
+  }
+  @media only screen and (max-width: 900px) {
+    width: 6rem;
+    height: 6rem;
+  }
+}
+
+.board {
+  @media only screen and (max-width: 900px) {
+    position: absolute;
+    top: 55%;
+  }
+}

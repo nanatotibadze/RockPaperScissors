@@ -1,0 +1,49 @@
+.start {
+  align-self: center;
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+  flex-direction: column;
+}
+
+.startBtn {
+  width: 40rem;
+  justify-self: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  padding: 2rem;
+  text-transform: uppercase;
+  border-radius: 1rem;
+  color: white;
+  font-size: 2rem;
+  letter-spacing: 0.4rem;
+  @media only screen and (max-width: 600px) {
+    width: 30rem;
+
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+  }
+}
+
+.easy {
+  background: #834fe3;
+  border: 3px solid #40b9ce;
+}
+
+.difficult {
+  background: #40b9ce;
+  border: 3px solid #834fe3;
+}
+.startTitle {
+  color: white;
+  font-size: 3rem;
+  font-weight: bolder;
+  text-transform: capitalize;
+  line-height: 2.5rem;
+
+  @media only screen and (max-width: 900px) {
+    font-size: 2rem;
+  }
+}

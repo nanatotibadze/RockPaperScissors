@@ -1,0 +1,13 @@
+.btnSecondary {
+  width: 23rem;
+  color: #dc2e4e;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 1.6rem;
+  letter-spacing: 0.3rem;
+  background-color: whitesmoke;
+  cursor: pointer;
+}
