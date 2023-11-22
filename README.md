@@ -19,16 +19,13 @@ Users should be able to:
 
 ### Screenshot
 
-![(<![sneakers 1] (![rock5](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/85979214-3dec-4a5b-8ddb-8d6f43b66c18)
+![ (![rock5](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/85979214-3dec-4a5b-8ddb-8d6f43b66c18)
 )]
 
-![![Alt text](![rock5](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/bf0e6cdb-cb69-4fd4-b22e-8a5433043408)
-)](./screenshot.jpg)
-![(<![screenshot1]([https://github.com/nanatotibadze/Sneakers/assets/106735126/88d76dc7-7a22-4d01-bac9-b764fed7e92c](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/bf0e6cdb-cb69-4fd4-b22e-8a5433043408))
->)]
-![(![Alt text](<rock difficult.JPG>))](./screenshot.jpg)
-![![Alt text](easy.JPG)](./screenshot.jpg)
-![![Alt text](playground.JPG)](./screenshot.jpg)
+![ (![![easy](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/be10142a-0f4a-4c34-93ff-18377d46d6de)
+
+
+
 
 ### Links
 
