@@ -21,6 +21,8 @@ Users should be able to:
 
 ![![Alt text](![rock5](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/bf0e6cdb-cb69-4fd4-b22e-8a5433043408)
 )](./screenshot.jpg)
+![(<![screenshot1]([https://github.com/nanatotibadze/Sneakers/assets/106735126/88d76dc7-7a22-4d01-bac9-b764fed7e92c](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/bf0e6cdb-cb69-4fd4-b22e-8a5433043408))
+>)]
 ![(![Alt text](<rock difficult.JPG>))](./screenshot.jpg)
 ![![Alt text](easy.JPG)](./screenshot.jpg)
 ![![Alt text](playground.JPG)](./screenshot.jpg)
