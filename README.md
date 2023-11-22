@@ -19,7 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![![Alt text](rock5.JPG)](./screenshot.jpg)
+![![Alt text](![rock5](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/bf0e6cdb-cb69-4fd4-b22e-8a5433043408)
+)](./screenshot.jpg)
 ![(![Alt text](<rock difficult.JPG>))](./screenshot.jpg)
 ![![Alt text](easy.JPG)](./screenshot.jpg)
 ![![Alt text](playground.JPG)](./screenshot.jpg)
