@@ -25,14 +25,9 @@ Users should be able to:
 ![rock difficult](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/5e6956af-df98-42b5-a50d-2cedbe53039a)
 ![playground](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/be1c2bd9-5a42-41fa-a2a7-78ad8e24fc9e)
 
-
-
-
-
-
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://rock-paper-scissors-lizard.netlify.app/)
 
 ## My process
 
