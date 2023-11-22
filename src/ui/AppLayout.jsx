@@ -1,5 +1,5 @@
 import {Outlet} from "react-router-dom";
-import classes from "./Applayout.module.css";
+import classes from "./AppLayout.module.css";
 import Header from "./Header";
 import Rules from "../pages/features/Rules";
 import {useState} from "react";
